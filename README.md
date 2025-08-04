@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3> 🧑🏻‍💻 Skills </h3>
+  <h3> :: 🧑🏻‍💻 Skills :: </h3>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
   <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3> 🛠️ Tools </h3>
+  <h3> :: 🛠️ Tools :: </h3>
   <img src=https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white />
   <img src=https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white />
   <img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white />
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h3> 📊 Github Stats </h3>
+  <h3> :: 📊 Github Stats :: </h3>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=oharang&layout=donut&theme=discord_old_blurple />
 </div>
