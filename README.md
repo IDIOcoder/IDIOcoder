@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <br>
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white />
+  <img src=https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white />
 </div>
 
 <div align="center">
