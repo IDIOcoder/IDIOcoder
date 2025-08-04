@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> 📊 Github Stats </h3>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=IDIOcoder&theme=blue-green />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=oharang&layout=donut&theme=discord_old_blurple />
 </div>
