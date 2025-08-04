@@ -55,6 +55,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
   <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img src=https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white />
+  <img src=https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white />
 </div>
 
 
