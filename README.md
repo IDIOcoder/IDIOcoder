@@ -38,8 +38,11 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
   <br>
-  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white />
+  <img src=https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white />
+  <img src=https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white />
+  <br>
+  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
   <img src=https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white />
 </div>
 
