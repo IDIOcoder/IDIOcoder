@@ -34,10 +34,6 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white />
   <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />
   <br>
-  <img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white />
-  <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
-  <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
-  <br>
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white />
   <img src=https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white />
   <img src=https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white />
@@ -45,6 +41,13 @@ Here are some ideas to get you started:
   <br>
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
   <img src=https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white />
+</div>
+
+<div align="center">
+  <h3> :: 💻 OS :: </h3>
+  <img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white />
+  <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
+  <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
 </div>
 
 <div align="center">
@@ -67,6 +70,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white />
   <br>
   <img src=	https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white />
+  <img src= https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white />
 </div>
 
 
