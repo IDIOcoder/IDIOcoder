@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <h3> :: 🧑🏻‍💻 Skills :: </h3>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
   <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
+  <img src=	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white />
+  <br>
   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
   <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
   <br>
@@ -34,6 +36,7 @@ Here are some ideas to get you started:
   <br>
   <img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white />
   <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
+  <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
   <br>
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
   <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white />
@@ -46,6 +49,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white />
   <img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white />
   <img src=https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252 />
+  <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
   <br>
   <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white />
   <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white />
@@ -57,6 +61,8 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img src=https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white />
   <img src=https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white />
+  <br>
+  <img src=	https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white />
 </div>
 
 
